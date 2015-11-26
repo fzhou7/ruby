@@ -1,3 +1,3 @@
 # ruby
-The Odin Project - Ruby Project
+The Odin Project - Ruby
 http://www.theodinproject.com/web-development-101/ruby
